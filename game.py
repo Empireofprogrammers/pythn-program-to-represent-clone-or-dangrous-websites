@@ -16,7 +16,7 @@ Password =simpledialog.askstring(title="Password",
 Google_email_and_password_db = {
     "bla@gmail.com":"74859jfkjr",
     "google@1234gmail.com":"Google is better than any one@123*3",
-    "haritraiclass7@gmail.com":"security@123withKaliandpython",
+    "haritraiclass7@gmail.com":"security@123withKaliandpytho54r454r",
     "harit500@gmail.com":"1234!#hack"
     }
 dark_web = {
